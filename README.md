@@ -17,6 +17,10 @@
  
 👩🏻‍💻 Pronouns: she/her/hers
 
+<div align="right">
+  [![Courtney's WordPress Activity](https://www.cardpress.us/card?username=courane01&badges=true)](https://www.cardpress.us/)
+</div>
+
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
