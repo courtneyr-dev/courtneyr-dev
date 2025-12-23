@@ -6,14 +6,15 @@ I help people move from *curious* to *contributing*, and I care deeply about the
 
 ---
 
+
+## 🧭 What I work on
+
 <img
   src="assets/courtney-octocat.png"
   alt="Illustrated Octocat representing Courtney Robertson, wearing swim goggles, holding a coffee mug and violin, with a hockey puck between her front legs"
   align="right"
   width="320"
 />
-
-## 🧭 What I work on
 
 ### 🌍 Open source sustainability & governance
 I’m a **co-founding board member of [The WP Community Collective](https://www.thewpcommunitycollective.com/)**, a nonprofit that supports open-source contributors through funding programs, shared infrastructure, and transparent governance.  
