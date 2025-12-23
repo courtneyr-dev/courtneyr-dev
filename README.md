@@ -1,10 +1,3 @@
-<img
-  src="assets/courtney-octocat.png"
-  alt="Illustrated Octocat representing Courtney Robertson, wearing swim goggles, holding a coffee mug and violin, with a hockey puck between her front legs"
-  align="right"
-  width="220"
-/>
-
 # 👋 Hi, I’m Courtney Robertson
 
 I’m an **Open Source Developer Advocate at GoDaddy**, a longtime **WordPress contributor**, and a former **computer science educator** working at the intersection of community, governance, and sustainable open source.
@@ -12,6 +5,13 @@ I’m an **Open Source Developer Advocate at GoDaddy**, a longtime **WordPress c
 I help people move from *curious* to *contributing*, and I care deeply about the systems that keep open-source projects healthy over time.
 
 ---
+
+<img
+  src="assets/courtney-octocat.png"
+  alt="Illustrated Octocat representing Courtney Robertson, wearing swim goggles, holding a coffee mug and violin, with a hockey puck between her front legs"
+  align="right"
+  width="320"
+/>
 
 ## 🧭 What I work on
 
