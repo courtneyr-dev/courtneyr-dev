@@ -1,5 +1,5 @@
 <img
-  src="assets/courtney-octocat.png"
+  src="assets/courtney-ococat.png"
   alt="Illustrated Octocat representing Courtney Robertson, wearing swim goggles, holding a coffee mug and violin, with a hockey puck between her front legs"
   align="right"
   width="220"
