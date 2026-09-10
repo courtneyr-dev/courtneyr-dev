@@ -17,8 +17,8 @@ I help people move from *curious* to *contributing*, and I care deeply about the
 />
 
 ### 🌍 Open source sustainability & governance
-I’m a **co-founding board member of [The WP Community Collective](https://www.thewpcommunitycollective.com/)**, a nonprofit that supports open-source contributors through funding programs, shared infrastructure, and transparent governance.  
-My focus within The WPCC includes contributor support models, organizational clarity, and long-term resilience.
+I’m a **co-founding board member of [The WP Open Community Collective](https://www.thewpcommunitycollective.com/)**, a nonprofit that supports open-source contributors through funding programs, shared infrastructure, and transparent governance.  
+My focus within The WPOCC includes contributor support models, organizational clarity, and long-term resilience.
 
 I also support and contribute to **[FAIR](https://fair.pm/)**, an initiative working toward **federated, independent, and verifiable software distribution** for WordPress packages.
 
