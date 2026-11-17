@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Courtney Robertson
 
-I’m an **Open Source Developer Advocate at GoDaddy**, a longtime **WordPress contributor**, and a former **computer science educator** working at the intersection of community, governance, and sustainable open source.
+I’m a **technical writer and developer advocate at [Pantheon](https://pantheon.io)**, a longtime **WordPress contributor**, and a former **computer science educator**. I work where community, governance, and sustainable open source meet.
 
 I help people move from *curious* to *contributing*, and I care deeply about the systems that keep open-source projects healthy over time.
 
@@ -41,6 +41,26 @@ I regularly support:
 
 ---
 
+## 🔌 What I’m building
+
+I build WordPress plugins for the IndieWeb, so your own site holds what you post, read, and reply to.
+
+### On WordPress.org
+- **[Post Kinds for IndieWeb](https://github.com/courtneyr-dev/post-kinds-for-indieweb)**: log what you listen to, watch, read, play, and check in to, with microformats. [Post Kinds on WordPress.org](https://wordpress.org/plugins/post-kinds-for-indieweb-in-block-themes/)
+- **[Post Formats for Block Themes](https://github.com/courtneyr-dev/post-formats-for-block-themes)**: detects each post’s format and applies a matching pattern. Includes a Chat Log block for transcripts. [Post Formats on WordPress.org](https://wordpress.org/plugins/post-formats-for-block-themes/)
+- **[Link Extension for XFN](https://github.com/courtneyr-dev/link-extension-for-xfn)**: adds XFN relationship options to the block editor’s link controls. [XFN on WordPress.org](https://wordpress.org/plugins/link-extension-for-xfn/)
+
+### On GitHub
+- **[Outpost](https://github.com/courtneyr-dev/outpost)**: post notes, replies, and photos to your WordPress site from your phone, then syndicate them with one tap.
+- **[RSS Chat Routing](https://github.com/courtneyr-dev/rss-chat-routing)**: picks which posts go to rss.chat and brings replies home as verified Webmentions.
+- **[Social Webmention Importer](https://github.com/courtneyr-dev/social-webmention-importer)**: imports public X and LinkedIn replies as Webmentions, and you review each one before it saves.
+
+### Prompt libraries
+- **[wp-dev-prompts](https://github.com/courtneyr-dev/wp-dev-prompts)**: prompts I use when developing in WordPress.
+- **[developer-education-prompts](https://github.com/courtneyr-dev/developer-education-prompts)**: prompts for documentation and training materials, written for everyone from vibe coders to web developers.
+
+---
+
 ## 🛠️ Tools & practices
 - **Languages:** PHP, JavaScript, HTML, CSS, SQL  
 - **Ecosystems:** WordPress, open source communities, documentation workflows  
@@ -65,9 +85,11 @@ When I’m not in GitHub or WordPress Slack, I’m usually:
 ---
 
 ## 🤝 Find me elsewhere
-- 🌐 Website: https://courtneyr.dev  
-- ❎ X: https://x.com/courtneyr_dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/courtneyr-dev/  
+- 🌐 Website: [courtneyr.dev](https://courtneyr.dev)  
+- 🐘 Mastodon: [@courtneyr@m.courtneyr.co](https://m.courtneyr.co/@courtneyr)  
+- ❎ X: [@courtneyr_dev](https://x.com/courtneyr_dev)  
+- 💼 LinkedIn: [courtneyr-dev](https://www.linkedin.com/in/courtneyr-dev/)  
+- Ⓦ WordPress.org: [courane01](https://profiles.wordpress.org/courane01/)  
 
 Open source works best when people feel welcome, supported, and valued.  
 I try to build communities—and systems—that reflect that.
